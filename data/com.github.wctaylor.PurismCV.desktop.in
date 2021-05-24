@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=purism-cv
+Exec=purism-cv
+Icon=com.github.wctaylor.PurismCV
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

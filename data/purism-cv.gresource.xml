@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/wctaylor/PurismCV">
+    <file preprocess="xml-stripblanks">icons/my-about-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">icons/my-mail-message-new-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">icons/my-person-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">icons/my-phone-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">icons/my-skills-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">icons/python.svg</file>
+    <file preprocess="xml-stripblanks">icons/bash.svg</file>
+    <file preprocess="xml-stripblanks">icons/cpp.svg</file>
+    <file preprocess="xml-stripblanks">icons/linux.svg</file>
+    <file preprocess="xml-stripblanks">icons/gtk.svg</file>
+  </gresource>
+</gresources>
